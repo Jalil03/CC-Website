@@ -1,0 +1,23 @@
+# Node modules
+node_modules
+**/node_modules
+
+# Environment files
+.env
+**/.env
+
+# Build / Dist
+dist
+build
+**/dist
+**/build
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore local test folder
+express/
